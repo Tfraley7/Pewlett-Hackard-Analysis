@@ -16,3 +16,16 @@ Working at Pewlett Hackard in this project I was tasked to assist Bobby (HR anal
 ### Results: 
 
 When conducting our analysis we initially started by gathering the number of retiring employees. Using SQL queries we amalgamated the data into a Retirement Titles Table ("retiring_emp_title"). The employees on this list were born between Jan 1, 2951 and Dec 31, 1955. the *DESTINCT ON* function turned out to be usefull during this analysis, because it allowed us to create a table that inclcuded the employees' current title. Further in our script we included the count (*COUNT()*) when creating a table that would hold an amount of retirement-age employees listed by their job title. 
+
+<p align="center">
+  <img width="460" height="300" src="Retiring_Titles.png">
+</p>
+<p align="center">
+  <img width="460" height="300" src="Retiring_Titles_Count.png">
+</p>
+<p align="center">
+  <img width="460" height="300" src="Unique_Titles.png">
+</p>
+<p align="center">
+  <img width="460" height="300" src="Mentorship_Eligibility.png">
+</p>
