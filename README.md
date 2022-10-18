@@ -65,18 +65,10 @@ Mentorship Eligibility<br/>
 </p>
 <br/>
 <br/>
-##Summary: 
-Pewlett Hackard will need to fill 72,458 roles in the comming years to compensate for retiring employees. Considering that many of the employees wouldn't quit all at once, albeit they are all over the age of 65yrs old.  Considering, the amount of employees that are ready to retire could hold valuable experience. Many could be vetted and offered packages to stay on board with the company as mentors to the next wave of employees meant to backfill the roles for the employees who are ready to retire. Such packages could hold work from home options to incentivise the soon to retire employees. 
 
-<p align="center">
-Contributions to Research<br/>
-</p>
-<br/>
-In conclusion, further research is needed to truly understand the impact the "Silver Tsunami" may have on Pewlett Hackard. Below I have included two tables that could offer benefit to the company during future research efforts. 
-<br/>
-##Summary: 
+### Summary: 
 Pewlett Hackard will need to fill 72,458 roles in the comming years to compensate for retiring employees. Considering that many of the employees wouldn't quit all at once, albeit they are all over the age of 65yrs old.  Considering, the amount of employees that are ready to retire could hold valuable experience. Many could be vetted and offered packages to stay on board with the company as mentors to the next wave of employees meant to backfill the roles for the employees who are ready to retire. Such packages could hold work from home options to incentivise the soon to retire employees. 
-
+<br/>
 <p align="center">
 Contributions to Research<br/>
 </p>
@@ -89,7 +81,7 @@ Mentorship Titles<br/>
     * Note: Senior Engineer greatly falls short with the amount of qualified mentees. This may be an area of interest considering 25,916 Senior Engineers will be retiring.
 </p>
 <p align="center">
-  <img width="460" height="400" src="Mentorship_Titles_Code.png">
+  <img width="460" height="380" src="Mentorship_Titles_Code.png">
 </p>
 
 <p align="center">
