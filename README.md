@@ -10,7 +10,7 @@ August 31, 2022<br/>
   <img width="460" height="300" src="silver_tsunami.jpeg">
 </p>
 
-## Overview of the analysis: Explain the purpose of this analysis.
+## Overview 
 
 Working at Pewlett Hackard in this project I was tasked to assist Bobby (HR analyst) in researching employees. Our purpose was to figure out who will be retiring in the coming years and how many positions will need to be backfilled. In addition to figuring out how many positions will need to be backfilled and who will be retiring in the coming years. Bobby and I were tasked to list all employees who would be eligible to participate in a mentorship program. Which could compliment Pewlett Hackard's future needs to backfill with possibly well vetted internal candidates. The final task in this process would be fore Bobby and I to prepare Bobby's manager for the "silver tsunami" which correlates itself within the employees who are reaching retirement age. We first gathered company data through six csv files which we organized through the use of ERD to determine primary and foreign keys in the data sets. We then used ERD as a graphical reference throughout the study. Finally, all of the csv files were uploaded into pgAdmin 4, organized, and analyzed by using SQL.
 
