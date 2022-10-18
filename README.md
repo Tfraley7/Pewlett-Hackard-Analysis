@@ -89,7 +89,7 @@ Mentorship Titles<br/>
     * Note: Senior Engineer greatly falls short with the amount of qualified mentees. This may be an area of interest considering 25,916 Senior Engineers will be retiring.
 </p>
 <p align="center">
-  <img width="460" height="300" src="Mentorship_Titles_Code.png">
+  <img width="460" height="400" src="Mentorship_Titles_Code.png">
 </p>
 
 <p align="center">
